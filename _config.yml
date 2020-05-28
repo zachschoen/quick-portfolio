@@ -3,8 +3,6 @@ logo: "/images/avatar.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a data engineer and data analyst. My core languages are Python and R. I am also a practicing Cognos Analytics developer. My favorite projects focus on building automated solutions to data-intensive problems. My best asset is an ability and desire to learn new skills quickly, as needs arise.  
   <br><br>
-  I have experience deploying on premise and in the cloud on GCP. I prefer collaborative work environments that adhere to DevOps/Agile practices. My interests include general programming in Python, data quality, machine learning, ETL, data warehousing, and streaming or batch automated data pipelines, monitoring, testing, and data visualization. I am looking to grow my knowledge and skills in any of these areas, preferably to solve problems that matter. 
-  <br><br>
   <a href="https://www.linkedin.com/in/zacharyschoenberger/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
